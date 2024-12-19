@@ -9,9 +9,9 @@
   
 ---
 ## Skills & Tools
-Python(Advanced), SQL(Advanced), R(Intermediate), Tableau(Intermediate), MATLAB(intermediate), Figma, Amplitude, Korean
+Python(Advanced), SQL(Advanced), R(Intermediate), Tableau(Intermediate), MATLAB(intermediate), Figma, Amplitude
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,py,r,notion,github,figma,anaconda" />
+    <img src="https://skillicons.dev/icons?i=postgres,py,r,matlab,figma,anaconda,sklearn,tableau&theme=light" />
   </a>
 </p>
